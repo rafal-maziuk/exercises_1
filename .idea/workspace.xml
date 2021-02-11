@@ -51,11 +51,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/petle_i_pliki/WP_13.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/petle_i_pliki/WP_14.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+              <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -88,6 +97,7 @@
         <option value="$PROJECT_DIR$/src/main/java/petle_i_pliki/WP_5.java" />
         <option value="$PROJECT_DIR$/src/main/java/petle_i_pliki/WP_6.java" />
         <option value="$PROJECT_DIR$/src/main/java/petle_i_pliki/WP_13.java" />
+        <option value="$PROJECT_DIR$/src/main/java/petle_i_pliki/WP_14.java" />
       </list>
     </option>
   </component>
@@ -168,7 +178,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.WP_13">
+  <component name="RunManager" selected="Application.WP_14">
     <configuration name="WP_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="petle_i_pliki.WP_13" />
       <module name="exc_1" />
@@ -182,8 +192,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WP_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="petle_i_pliki.WP_3" />
+    <configuration name="WP_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="petle_i_pliki.WP_14" />
       <module name="exc_1" />
       <extension name="coverage">
         <pattern>
@@ -236,11 +246,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WP_14" />
         <item itemvalue="Application.WP_13" />
         <item itemvalue="Application.WP_6" />
         <item itemvalue="Application.WP_5" />
         <item itemvalue="Application.WP_4" />
-        <item itemvalue="Application.WP_3" />
       </list>
     </recent_temporary>
   </component>
@@ -422,8 +432,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/petle_i_pliki/WP_13.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/petle_i_pliki/WP_14.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
         </state>
       </provider>
     </entry>
