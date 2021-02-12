@@ -1,12 +1,15 @@
 package petle_i_pliki;
 
+import java.io.IOException;
+import java.io.PrintWriter;
 import java.util.Scanner;
 
 public class ZP_2 {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
 
         int predkosc, droga, czas;
         Scanner scanner = new Scanner(System.in);
+        PrintWriter printWriter = new PrintWriter("przebyta_odleglość.txt");
 
         System.out.println("podaj predkosc z jaka jedzie pojazd w km/h: ");
         predkosc = scanner.nextInt();
@@ -15,13 +18,14 @@ public class ZP_2 {
         czas = scanner.nextInt();
 
         if (czas > 1 && predkosc > 0) {
-            System.out.println("Godzina \tPrzebyta odległość");
-            System.out.println("==============================");
+            printWriter.println("Godzina \tPrzebyta odległość");
+            printWriter.println("==============================");
             for (int i = 1; i <= czas ; i++) {
                 droga = i * predkosc;
-                System.out.println(i + "\t\t\t" + droga);
+                printWriter.println(i + "\t\t\t" + droga);
 
             }
+            printWriter.close();
         } else if (czas == 1){
             System.out.println("pojazd przejechal " + predkosc + " km");
         }
