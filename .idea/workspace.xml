@@ -3,46 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2fe4c8b5-011b-487a-93c3-faa9dd39eecf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/petle_i_pliki/PK_4_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/petle_i_pliki/punkt_kontrolny/PK_4_13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/petle_i_pliki/PK_4_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/petle_i_pliki/punkt_kontrolny/PK_4_19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/petle_i_pliki/PK_4_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/petle_i_pliki/punkt_kontrolny/PK_4_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/petle_i_pliki/PK_4_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/petle_i_pliki/punkt_kontrolny/PK_4_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/petle_i_pliki/PK_4_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/petle_i_pliki/punkt_kontrolny/PK_4_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/petle_i_pliki/WP_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/petle_i_pliki/warsztat/WP_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/petle_i_pliki/WP_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/petle_i_pliki/warsztat/WP_13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/petle_i_pliki/WP_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/petle_i_pliki/warsztat/WP_14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/petle_i_pliki/WP_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/petle_i_pliki/warsztat/WP_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/petle_i_pliki/WP_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/petle_i_pliki/warsztat/WP_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/petle_i_pliki/WP_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/petle_i_pliki/warsztat/WP_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/petle_i_pliki/WP_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/petle_i_pliki/warsztat/WP_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/petle_i_pliki/WP_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/petle_i_pliki/warsztat/WP_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/petle_i_pliki/ZP_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/petle_i_pliki/zadania/ZP_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/petle_i_pliki/ZP_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/petle_i_pliki/zadania/ZP_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/petle_i_pliki/ZP_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/petle_i_pliki/zadania/ZP_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/petle_i_pliki/ZP_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/petle_i_pliki/zadania/ZP_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/petle_i_pliki/ZP_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/petle_i_pliki/zadania/ZP_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/petle_i_pliki/ZP_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/petle_i_pliki/zadania/ZP_7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/petle_i_pliki/ZP_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/petle_i_pliki/zadania/ZP_8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/petle_i_pliki/PK_4_13.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/petle_i_pliki/PK_4_19.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/petle_i_pliki/PK_4_4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/petle_i_pliki/PK_4_5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/petle_i_pliki/PK_4_6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/petle_i_pliki/WP_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/petle_i_pliki/WP_13.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/petle_i_pliki/WP_14.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/petle_i_pliki/WP_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/petle_i_pliki/WP_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/petle_i_pliki/WP_4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/petle_i_pliki/WP_5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/petle_i_pliki/WP_6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/petle_i_pliki/ZP_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/petle_i_pliki/ZP_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/petle_i_pliki/ZP_4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/petle_i_pliki/ZP_5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/petle_i_pliki/ZP_6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/petle_i_pliki/ZP_7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/petle_i_pliki/ZP_8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/petle_i_pliki/zadania/ZP_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/petle_i_pliki/zadania/ZP_9.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -57,98 +18,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/petle_i_pliki/warsztat/WP_14.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/petle_i_pliki/zadania/ZP_1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/petle_i_pliki/zadania/ZP_2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/petle_i_pliki/zadania/ZP_4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/petle_i_pliki/zadania/ZP_5.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/petle_i_pliki/zadania/ZP_6.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/petle_i_pliki/zadania/ZP_7.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/petle_i_pliki/zadania/ZP_8.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/petle_i_pliki/zadania/ZP_9.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-132">
-              <caret line="5" column="2" selection-start-line="5" selection-end-line="6" />
+            <state relative-caret-position="476">
+              <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/petle_i_pliki/warsztat/WP_13.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/petle_i_pliki/zadania/ZP_10.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -192,6 +75,7 @@
         <option value="$PROJECT_DIR$/src/main/java/petle_i_pliki/ZP_7.java" />
         <option value="$PROJECT_DIR$/src/main/java/petle_i_pliki/ZP_8.java" />
         <option value="$PROJECT_DIR$/src/main/java/petle_i_pliki/ZP_9.java" />
+        <option value="$PROJECT_DIR$/src/main/java/petle_i_pliki/zadania/ZP_10.java" />
         <option value="$PROJECT_DIR$/src/main/java/petle_i_pliki/zadania/ZP_9.java" />
       </list>
     </option>
@@ -373,6 +257,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20196672" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -627,10 +512,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/petle_i_pliki/zadania/ZP_10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/petle_i_pliki/zadania/ZP_9.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-132">
-          <caret line="5" column="2" selection-start-line="5" selection-end-line="6" />
+        <state relative-caret-position="476">
+          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
         </state>
       </provider>
     </entry>

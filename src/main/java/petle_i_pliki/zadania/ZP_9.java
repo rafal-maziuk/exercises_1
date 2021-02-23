@@ -24,12 +24,12 @@ public class ZP_9 {
         if (startPop < 2 && avgDayAdd < 0 && days < 1) {
             System.out.println("błędne dane wejściowe!");
         } else {
-            for (int i = 0; i < days; i++) {
-                population = (startPop + population)*avg;
-                totalPop += population;
+            population = startPop;
+            for (int i = 1; i <= days; i++) {
+                totalPop = population;
+                population = population + (population*avg);
+                System.out.println("populacja na dzień " + i + " wynosi: " + totalPop);
             }
-            System.out.println("po okreslonej ilosci dni populacja wynosi: " + (totalPop));
-
         }
     }
 }
