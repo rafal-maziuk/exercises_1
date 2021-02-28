@@ -5,22 +5,22 @@ import java.util.Scanner;
 public class ZP_12 {
     public static void main(String[] args) {
 
-        int shops;
-        int[] numOfStars;
-
+        int[] shop = new int[5];
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("podaj ilosc sklepow: ");
-        shops = scanner.nextInt();
+        for (int i = 0; i < shop.length; i++) {
+            System.out.print("podaj wartość sprzedazy w sklepie nr " + (i+1) + " :");
+            shop[i] = scanner.nextInt();
+        }
+        System.out.println();
 
-        int[] sellValue = new int[shops];
-        numOfStars = new int[sellValue.length];
-
-        for (int i = 0; i < shops ; i++) {
-            System.out.println("podaj wartosc sprzedazy dla sklepu nr " + (i+1) + ":");
-            sellValue[i] = scanner.nextInt();
-
-            numOfStars[i] = sellValue[i] / 100;
+        for (int i = 0; i < shop.length ; i++) {
+            System.out.print("sklep nr " + (i+1) + ":");
+            int value = shop[i] / 100;
+            for (int j = 0; j < value; j++) {
+                System.out.print("*");
+            }
+            System.out.println();
         }
     }
 }
