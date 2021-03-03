@@ -15,11 +15,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/petle_i_pliki/zadania/ZP_16.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/petle_i_pliki/zadania/ZP_17.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="106">
+              <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -68,6 +80,7 @@
         <option value="$PROJECT_DIR$/src/main/java/petle_i_pliki/zadania/ZP_11.java" />
         <option value="$PROJECT_DIR$/src/main/java/petle_i_pliki/zadania/ZP_12.java" />
         <option value="$PROJECT_DIR$/src/main/java/petle_i_pliki/zadania/ZP_16.java" />
+        <option value="$PROJECT_DIR$/src/main/java/petle_i_pliki/zadania/ZP_17.java" />
       </list>
     </option>
   </component>
@@ -157,7 +170,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ZP_16">
+  <component name="RunManager" selected="Application.ZP_17">
     <configuration name="ZP_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="petle_i_pliki.zadania.ZP_10" />
       <module name="exc_1" />
@@ -210,12 +223,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZP_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="petle_i_pliki.zadania.ZP_9" />
+    <configuration name="ZP_17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="petle_i_pliki.zadania.ZP_17" />
       <module name="exc_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="petle_i_pliki.punkt_kontrolny.*" />
+          <option name="PATTERN" value="petle_i_pliki.zadania.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -225,11 +238,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ZP_17" />
         <item itemvalue="Application.ZP_16" />
         <item itemvalue="Application.ZP_12" />
         <item itemvalue="Application.ZP_11" />
         <item itemvalue="Application.ZP_10" />
-        <item itemvalue="Application.ZP_9" />
       </list>
     </recent_temporary>
   </component>
@@ -248,6 +261,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20196672" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -533,7 +547,17 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/petle_i_pliki/zadania/ZP_16.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/petle_i_pliki/zadania/ZP_17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
