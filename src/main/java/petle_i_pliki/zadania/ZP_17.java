@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class ZP_17 {
     public static void main(String[] args) {
 
-        int randomNr, userNr;
+        int randomNr, userNr, count = 0;
         Scanner scanner = new Scanner(System.in);
 
         Random randoms = new Random();
@@ -25,6 +25,8 @@ public class ZP_17 {
             else {
                 System.out.println("brawo! dobra liczba!");
             }
+            count += 1;
         } while (userNr != randomNr);
+        System.out.println("odgadnieto liczbe przy probie nr " + count);
     }
 }
