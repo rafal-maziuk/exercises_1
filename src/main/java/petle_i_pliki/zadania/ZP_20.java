@@ -20,7 +20,7 @@ public class ZP_20 {
             }
         }
         else {
-            System.out.println("ŹŁE dane wejściowe!");
+            System.out.println("ZŁE dane wejściowe!");
         }
     }
 }
