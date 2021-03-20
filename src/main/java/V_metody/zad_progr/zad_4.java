@@ -31,8 +31,6 @@ public class zad_4 {
         double wydatkiTotal = kosztMalowaniaTotal(pracaCena, cenaFarbyTotal);
 
         informacjeMalowanie(wydatkiTotal, litry, czasPracy);
-
-
     }
     public static double litryFarby(double vol){
         double iloscPotrzebnejFarby = vol / 10 * 1.5;
