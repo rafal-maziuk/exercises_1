@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2fe4c8b5-011b-487a-93c3-faa9dd39eecf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/V_metody/zad_progr/zad_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/V_metody/zad_progr/zad_4.java" afterDir="false" />
-    </list>
+    <list default="true" id="2fe4c8b5-011b-487a-93c3-faa9dd39eecf" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,11 +51,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/V_metody/zad_progr/zad_5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+            <state relative-caret-position="306">
+              <caret line="18" column="56" lean-forward="true" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/V_metody/zad_progr/zad_6.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -117,6 +124,7 @@
         <option value="$PROJECT_DIR$/src/main/java/V_metody/zad_progr/zad_3.java" />
         <option value="$PROJECT_DIR$/src/main/java/V_metody/zad_progr/zad_4.java" />
         <option value="$PROJECT_DIR$/src/main/java/V_metody/zad_progr/zad_5.java" />
+        <option value="$PROJECT_DIR$/src/main/java/V_metody/zad_progr/zad_6.java" />
       </list>
     </option>
   </component>
@@ -208,20 +216,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.zad_5">
-    <configuration name="zad_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="V_metody.zad_progr.zad_1" />
-      <module name="exc_1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="V_metody.zad_progr.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.zad_6">
     <configuration name="zad_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="V_metody.zad_progr.zad_2" />
       <module name="exc_1" />
@@ -274,13 +269,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="zad_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="V_metody.zad_progr.zad_6" />
+      <module name="exc_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="V_metody.zad_progr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.zad_6" />
         <item itemvalue="Application.zad_5" />
         <item itemvalue="Application.zad_4" />
         <item itemvalue="Application.zad_3" />
         <item itemvalue="Application.zad_2" />
-        <item itemvalue="Application.zad_1" />
       </list>
     </recent_temporary>
   </component>
@@ -673,8 +681,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/V_metody/zad_progr/zad_5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        <state relative-caret-position="306">
+          <caret line="18" column="56" lean-forward="true" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/V_metody/zad_progr/zad_6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
         </state>
       </provider>
     </entry>
