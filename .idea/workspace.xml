@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2fe4c8b5-011b-487a-93c3-faa9dd39eecf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2fe4c8b5-011b-487a-93c3-faa9dd39eecf" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,19 +16,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/V_metody/zad_progr/zad_12.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/V_metody/zad_progr/zad_13.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <caret line="17" column="4" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="28" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/V_metody/zad_progr/zad_13.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/V_metody/zad_progr/zad_14.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="15" column="78" selection-start-line="15" selection-start-column="78" selection-end-line="15" selection-end-column="78" />
+            <state relative-caret-position="221">
+              <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -97,6 +98,7 @@
         <option value="$PROJECT_DIR$/src/main/java/V_metody/zad_progr/zad_10.java" />
         <option value="$PROJECT_DIR$/src/main/java/V_metody/zad_progr/zad_12.java" />
         <option value="$PROJECT_DIR$/src/main/java/V_metody/zad_progr/zad_13.java" />
+        <option value="$PROJECT_DIR$/src/main/java/V_metody/zad_progr/zad_14.java" />
       </list>
     </option>
   </component>
@@ -196,7 +198,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.zad_13">
+  <component name="RunManager" selected="Application.zad_14">
     <configuration name="zad_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="V_metody.zad_progr.zad_10" />
       <module name="exc_1" />
@@ -236,8 +238,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zad_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="V_metody.zad_progr.zad_8" />
+    <configuration name="zad_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="V_metody.zad_progr.zad_14" />
       <module name="exc_1" />
       <extension name="coverage">
         <pattern>
@@ -264,11 +266,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.zad_14" />
         <item itemvalue="Application.zad_13" />
         <item itemvalue="Application.zad_12" />
         <item itemvalue="Application.zad_10" />
         <item itemvalue="Application.zad_9" />
-        <item itemvalue="Application.zad_8" />
       </list>
     </recent_temporary>
   </component>
@@ -296,8 +298,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1762481" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1762481" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -306,7 +309,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30278233" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30278233" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -709,8 +712,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/V_metody/zad_progr/zad_13.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="15" column="78" selection-start-line="15" selection-start-column="78" selection-end-line="15" selection-end-column="78" />
+        <state relative-caret-position="289">
+          <caret line="17" column="4" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/V_metody/zad_progr/zad_14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
