@@ -45,4 +45,14 @@ public class Person {
     public void setPhoneNr(final int phoneNr) {
         this.phoneNr = phoneNr;
     }
+
+    @Override
+    public String toString() {
+        return "Person{" +
+                "fullName = '" + fullName + '\'' +
+                ", adres = '" + adres + '\'' +
+                ", age = " + age +
+                ", phoneNr = " + phoneNr +
+                '}';
+    }
 }
