@@ -16,33 +16,29 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/VI_klasy/zad_prog/zad6/TestScores.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/VI_klasy/zad_prog/zad7/Circle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="38" column="23" lean-forward="true" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+            <state relative-caret-position="444">
+              <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
               <folding>
-                <element signature="e#281#282#0" expanded="true" />
-                <element signature="e#309#310#0" expanded="true" />
-                <element signature="e#354#355#0" expanded="true" />
-                <element signature="e#388#389#0" expanded="true" />
-                <element signature="e#417#418#0" expanded="true" />
-                <element signature="e#445#446#0" expanded="true" />
-                <element signature="e#490#491#0" expanded="true" />
-                <element signature="e#524#525#0" expanded="true" />
-                <element signature="e#553#554#0" expanded="true" />
-                <element signature="e#581#582#0" expanded="true" />
-                <element signature="e#626#627#0" expanded="true" />
-                <element signature="e#660#661#0" expanded="true" />
+                <element signature="e#166#167#0" expanded="true" />
+                <element signature="e#202#203#0" expanded="true" />
+                <element signature="e#225#226#0" expanded="true" />
+                <element signature="e#251#252#0" expanded="true" />
+                <element signature="e#299#300#0" expanded="true" />
+                <element signature="e#335#336#0" expanded="true" />
+                <element signature="e#368#369#0" expanded="true" />
+                <element signature="e#397#398#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/VI_klasy/zad_prog/zad6/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/VI_klasy/zad_prog/zad7/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+            <state relative-caret-position="306">
+              <caret line="18" column="63" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -62,8 +58,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/petle_i_pliki/WP_14.java" />
-        <option value="$PROJECT_DIR$/src/main/java/petle_i_pliki/ZP_1.java" />
         <option value="$PROJECT_DIR$/src/main/java/petle_i_pliki/ZP_3.java" />
         <option value="$PROJECT_DIR$/src/main/java/petle_i_pliki/ZP_2.java" />
         <option value="$PROJECT_DIR$/src/main/java/petle_i_pliki/ZP_4.java" />
@@ -111,8 +105,10 @@
         <option value="$PROJECT_DIR$/src/main/java/VI_klasy/zad_prog/zad4/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/VI_klasy/zad_prog/zad5/Payroll.java" />
         <option value="$PROJECT_DIR$/src/main/java/VI_klasy/zad_prog/zad5/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/VI_klasy/zad_prog/zad6/TestScores.java" />
         <option value="$PROJECT_DIR$/src/main/java/VI_klasy/zad_prog/zad6/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/VI_klasy/zad_prog/zad6/TestScores.java" />
+        <option value="$PROJECT_DIR$/src/main/java/VI_klasy/zad_prog/zad7/Circle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/VI_klasy/zad_prog/zad7/Main.java" />
       </list>
     </option>
   </component>
@@ -197,7 +193,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="VI_klasy" type="462c0819:PsiDirectoryNode" />
               <item name="zad_prog" type="462c0819:PsiDirectoryNode" />
-              <item name="zad6" type="462c0819:PsiDirectoryNode" />
+              <item name="zad7" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -222,7 +218,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (4)">
+  <component name="RunManager" selected="Application.Main (5)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="VI_klasy.zad_prog.zad3.Main" />
       <module name="exc_1" />
@@ -275,12 +271,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VI_klasy.zad_prog.zad2.Main" />
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VI_klasy.zad_prog.zad7.Main" />
       <module name="exc_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="VI_klasy.zad_prog.zad2.*" />
+          <option name="PATTERN" value="VI_klasy.zad_prog.zad7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -290,11 +286,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -338,7 +334,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3289689" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
@@ -393,20 +389,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/IV_petle_i_pliki/warsztat/WP_13.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/IV_petle_i_pliki/warsztat/WP_14.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/IV_petle_i_pliki/zadania/ZP_1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -805,8 +787,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/VI_klasy/zad_prog/zad6/TestScores.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="38" column="23" lean-forward="true" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+        <state relative-caret-position="85">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
           <folding>
             <element signature="e#281#282#0" expanded="true" />
             <element signature="e#309#310#0" expanded="true" />
@@ -826,8 +808,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/VI_klasy/zad_prog/zad6/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+        <state relative-caret-position="291">
+          <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/VI_klasy/zad_prog/zad7/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+          <folding>
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#397#398#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/VI_klasy/zad_prog/zad7/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="63" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
         </state>
       </provider>
     </entry>
