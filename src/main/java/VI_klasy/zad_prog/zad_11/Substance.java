@@ -2,14 +2,8 @@ package VI_klasy.zad_prog.zad_11;
 
 public class Substance {
 
-    String name;
     double temp;
     final double ABSOLUTE_ZERO = -273.15;
-
-    public Substance(final String name, final double temp) {
-        this.name = name;
-        this.temp = temp;
-    }
 
     public double getTemp() {
         return temp;
