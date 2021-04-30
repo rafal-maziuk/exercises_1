@@ -3,8 +3,7 @@ package VI_klasy.zad_prog.zad_12;
 public class SavingsAccount {
 
     int rocznaStopaOprocentowania;
-    double stanKonta=0;
-    double odsetki = rocznaStopaOprocentowania / 12.0;
+    double stanKonta;
 
     public SavingsAccount(final double stanKonta) {
         this.stanKonta = stanKonta;
@@ -20,13 +19,9 @@ public class SavingsAccount {
     }
 
     public double dodawanieMiesiecznychOdsetek(double ods){
-        this.odsetki = ods;
-        stanKonta += (ods * stanKonta);
+        double odsMiesac = ods / 12.0;
+        stanKonta = stanKonta + ((odsMiesac * stanKonta) / 100.0);
         return stanKonta;
-    }
-
-    public int getRocznaStopaOprocentowania() {
-        return rocznaStopaOprocentowania;
     }
 
     public void setRocznaStopaOprocentowania(final int rocznaStopaOprocentowania) {
@@ -35,13 +30,5 @@ public class SavingsAccount {
 
     public double getStanKonta() {
         return stanKonta;
-    }
-
-    public double getOdsetki() {
-        return odsetki;
-    }
-
-    public void setOdsetki(final double odsetki) {
-        this.odsetki = odsetki;
     }
 }

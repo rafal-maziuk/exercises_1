@@ -20,15 +20,18 @@ public class Main {
         savingsAccount.setRocznaStopaOprocentowania(stopa);
 
         for (int i = 0; i < miesiace; i++) {
-            System.out.println("ile zdeponowales w tym miesiacu?:");
+            System.out.println("ile zdeponowales w "+ (i+1) +" miesiacu?:");
             int depozyt = scanner.nextInt();
             savingsAccount.wplacanaKwota(depozyt);
 
-            System.out.println("ile wyplaciles w danym miesiacu?:");
+            System.out.println("ile wyplaciles w "+ (i+1) +" miesiacu?:");
             int wyplata = scanner.nextInt();
             savingsAccount.wyplacanieZKonta(wyplata);
 
+            savingsAccount.dodawanieMiesiecznychOdsetek(stopa);
 
+            System.out.println("Twój aktualny stan konta wynosi: " + savingsAccount.getStanKonta());
+            System.out.println();
         }
     }
 }
