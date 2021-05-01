@@ -87,4 +87,20 @@ public class Patient {
     public void setSurnameContact(final String surnameContact) {
         this.surnameContact = surnameContact;
     }
+
+    @Override
+    public String toString() {
+        return "Patient{" +
+                "firstName='" + firstName + '\'' +
+                ", secondName='" + secondName + '\'' +
+                ", surname='" + surname + '\'' +
+                ", street='" + street + '\'' +
+                ", town='" + town + '\'' +
+                ", postNr=" + postNr +
+                ", phoneNr=" + phoneNr +
+                ", phoneNrContact=" + phoneNrContact +
+                ", nameContact='" + nameContact + '\'' +
+                ", surnameContact='" + surnameContact + '\'' +
+                '}';
+    }
 }

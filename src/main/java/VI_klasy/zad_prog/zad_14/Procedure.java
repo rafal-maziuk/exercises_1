@@ -4,7 +4,11 @@ public class Procedure {
     String nazwaBadania, dataBadania, imieBadacza, nazwiskoBadacza;
     int oplataZaBadanie;
 
-    public Procedure() {
+    public Procedure(final String nazwaBadania, final String dataBadania, final String nazwiskoBadacza, final int oplataZaBadanie) {
+        this.nazwaBadania = nazwaBadania;
+        this.dataBadania = dataBadania;
+        this.nazwiskoBadacza = nazwiskoBadacza;
+        this.oplataZaBadanie = oplataZaBadanie;
     }
 
     public String getNazwaBadania() {
@@ -45,5 +49,14 @@ public class Procedure {
 
     public void setOplataZaBadanie(final int oplataZaBadanie) {
         this.oplataZaBadanie = oplataZaBadanie;
+    }
+
+    @Override
+    public String toString() {
+        String answer = "nazwaBadania= " + nazwaBadania +
+                ",\ndataBadania= " + dataBadania +
+                ",\nnazwiskoBadacza= " + nazwiskoBadacza +
+                ",\noplataZaBadanie= " + oplataZaBadanie + "\n";
+        return answer;
     }
 }
