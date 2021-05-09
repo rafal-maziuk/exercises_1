@@ -2,7 +2,88 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fe4c8b5-011b-487a-93c3-faa9dd39eecf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/VII_tablice_i_ArrList/zad_1/RainFall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/VII_tablice_i_ArrList/zad_1/RainFall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Z_kolekcje_fun/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Z_kolekcje_fun/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Hello.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/punkt_kontrolny/PK_4_13.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/punkt_kontrolny/PK_4_13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/punkt_kontrolny/PK_4_19.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/punkt_kontrolny/PK_4_19.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/punkt_kontrolny/PK_4_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/punkt_kontrolny/PK_4_4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/punkt_kontrolny/PK_4_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/punkt_kontrolny/PK_4_5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/punkt_kontrolny/PK_4_6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/punkt_kontrolny/PK_4_6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/warsztat/WP_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/warsztat/WP_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/warsztat/WP_13.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/warsztat/WP_13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/warsztat/WP_14.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/warsztat/WP_14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/warsztat/WP_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/warsztat/WP_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/warsztat/WP_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/warsztat/WP_3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/warsztat/WP_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/warsztat/WP_4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/warsztat/WP_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/warsztat/WP_5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/warsztat/WP_6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/warsztat/WP_6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/zadania/ZP_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/zadania/ZP_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/zadania/ZP_10.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/zadania/ZP_10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/zadania/ZP_11.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/zadania/ZP_11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/zadania/ZP_12.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/zadania/ZP_12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/zadania/ZP_16.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/zadania/ZP_16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/zadania/ZP_17.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/zadania/ZP_17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/zadania/ZP_19.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/zadania/ZP_19.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/zadania/ZP_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/zadania/ZP_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/zadania/ZP_20.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/zadania/ZP_20.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/zadania/ZP_22.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/zadania/ZP_22.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/zadania/ZP_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/zadania/ZP_4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/zadania/ZP_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/zadania/ZP_5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/zadania/ZP_6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/zadania/ZP_6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/zadania/ZP_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/zadania/ZP_7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/zadania/ZP_8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/zadania/ZP_8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/zadania/ZP_9.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/IV_petle_i_pliki/zadania/ZP_9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/VII_tablice_i_ArrList/zad_1/RainFall.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/VII_tablice_i_ArrList/zad_1/RainFall.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/VII_tablice_i_ArrList/zad_1/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/VII_tablice_i_ArrList/zad_1/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad1/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad1/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad1/zad_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad1/zad_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad2/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad2/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad3/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad3/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad3/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad4/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad4/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad4/RetailItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad4/RetailItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad5/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad5/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad5/Payroll.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad5/Payroll.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad6/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad6/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad6/TestScores.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad6/TestScores.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad7/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad7/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad7/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad7/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad8/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad8/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad8/Temperature.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad8/Temperature.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad9/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad9/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad9/MonthDays.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad9/MonthDays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad_11/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad_11/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad_11/Substance.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad_11/Substance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad_12/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad_12/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad_12/SavingsAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad_12/SavingsAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad_14/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad_14/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad_14/Patient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad_14/Patient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad_14/Procedure.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad_14/Procedure.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad_16/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad_16/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad_16/RoulettePocket.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/VI_klasy/zad_prog/zad_16/RoulettePocket.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/V_metody/zad_progr/zad_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/V_metody/zad_progr/zad_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/V_metody/zad_progr/zad_10.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/V_metody/zad_progr/zad_10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/V_metody/zad_progr/zad_12.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/V_metody/zad_progr/zad_12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/V_metody/zad_progr/zad_13.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/V_metody/zad_progr/zad_13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/V_metody/zad_progr/zad_14.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/V_metody/zad_progr/zad_14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/V_metody/zad_progr/zad_15.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/V_metody/zad_progr/zad_15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/V_metody/zad_progr/zad_16.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/V_metody/zad_progr/zad_16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/V_metody/zad_progr/zad_17.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/V_metody/zad_progr/zad_17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/V_metody/zad_progr/zad_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/V_metody/zad_progr/zad_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/V_metody/zad_progr/zad_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/V_metody/zad_progr/zad_3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/V_metody/zad_progr/zad_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/V_metody/zad_progr/zad_4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/V_metody/zad_progr/zad_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/V_metody/zad_progr/zad_5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/V_metody/zad_progr/zad_6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/V_metody/zad_progr/zad_6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/V_metody/zad_progr/zad_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/V_metody/zad_progr/zad_7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/V_metody/zad_progr/zad_8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/V_metody/zad_progr/zad_8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/V_metody/zad_progr/zad_9.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/V_metody/zad_progr/zad_9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Z_kolekcje_fun/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Z_kolekcje_fun/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Z_kolekcje_fun/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Z_kolekcje_fun/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/VI_klasy/zad_prog/zad_11/SubstanceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/VI_klasy/zad_prog/zad_11/SubstanceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/VI_klasy/zad_prog/zad_12/SavingsAccountTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/VI_klasy/zad_prog/zad_12/SavingsAccountTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -20,20 +101,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Z_kolekcje_fun/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="48" column="40" selection-start-line="48" selection-start-column="40" selection-end-line="48" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Z_kolekcje_fun/Animal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
-              <folding>
-                <element signature="e#152#153#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1128">
+              <caret line="68" column="32" selection-start-line="68" selection-start-column="32" selection-end-line="68" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -54,7 +123,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/V_metody/zad_progr/zad_2.java" />
         <option value="$PROJECT_DIR$/src/main/java/V_metody/zad_progr/zad_3.java" />
         <option value="$PROJECT_DIR$/src/main/java/V_metody/zad_progr/zad_4.java" />
         <option value="$PROJECT_DIR$/src/main/java/V_metody/zad_progr/zad_5.java" />
@@ -104,6 +172,7 @@
         <option value="$PROJECT_DIR$/src/main/java/VII_tablice_i_ArrList/zad_1/main.java" />
         <option value="$PROJECT_DIR$/src/main/java/VII_tablice_i_ArrList/zad_1/RainFall.java" />
         <option value="$PROJECT_DIR$/src/main/java/Z_kolekcje_fun/Animal.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/Z_kolekcje_fun/Main.java" />
       </list>
     </option>
@@ -115,10 +184,22 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="730" />
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="rafMaz" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="319" />
+    <option name="y" value="34" />
     <option name="width" value="850" />
-    <option name="height" value="735" />
+    <option name="height" value="618" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -159,49 +240,7 @@
               <item name="exercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="exc_1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Z_kolekcje_fun" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exc_1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exc_1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exc_1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="VI_klasy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exc_1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="VI_klasy" type="462c0819:PsiDirectoryNode" />
-              <item name="zad_prog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exc_1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="VI_klasy" type="462c0819:PsiDirectoryNode" />
-              <item name="zad_prog" type="462c0819:PsiDirectoryNode" />
-              <item name="zad_11" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -216,6 +255,10 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.19310345" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -372,10 +415,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="730" y="0" width="850" height="735" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24303797" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19288956" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -384,20 +427,20 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24086379" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.45008183" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.57593125" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.57475084" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3289689" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32724252" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32242227" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.32980332" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
@@ -746,9 +789,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/VI_klasy/zad_prog/zad8/Temperature.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -975,16 +1015,83 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Z_kolekcje_fun/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="48" column="40" selection-start-line="48" selection-start-column="40" selection-end-line="48" selection-end-column="40" />
+        <state relative-caret-position="1128">
+          <caret line="68" column="32" selection-start-line="68" selection-start-column="32" selection-end-line="68" selection-end-column="32" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19310345" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19310345" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19310345" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19310345" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>exc_1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19310345" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>11</last-edited>
@@ -992,6 +1099,18 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19310345" />
               </list>
             </option>
           </splitter-proportions>

@@ -51,5 +51,29 @@ public class Main {
             System.out.println(((Animal)k).imie);
         }
         System.out.println("=========");
+
+        System.out.println("tworzenie ArrayList<>");
+        ArrayList<Animal> lista2 = new ArrayList<>();
+
+        lista2.add(kot1);
+        lista2.add(kot2);
+        lista2.add(kot3);
+        System.out.println("zawartość listy: ");
+        for (Object o : lista2){
+            System.out.println(((Animal)o).imie);
+        }
+        System.out.println("wywoływanie metod na ArrayList<> :\n");
+        System.out.println(".size : " + lista2.size());
+        System.out.println(".contains(3) : " + lista2.contains(3));
+        System.out.println(".get(0).imie : " + lista2.get(0).imie);
+        System.out.println(".remove kot3 : " + lista2.remove(kot3));
+        System.out.println("remove(0) : " + lista2.remove(0));
+        System.out.println("aktualny stan listy:");
+        for (Object o : lista2){
+            System.out.println(((Animal)o).imie);
+        }
+        lista2.clear();
+        System.out.println(".clear");
+        System.out.println(".size : " + lista2.size());
     }
 }
