@@ -1,4 +1,4 @@
-package Z_kolekcje_fun;
+package Z_kolekcje_fun.fun_1;
 
 import java.util.ArrayList;
 
@@ -59,8 +59,8 @@ public class Main {
         lista2.add(kot2);
         lista2.add(kot3);
         System.out.println("zawartość listy: ");
-        for (Object o : lista2){
-            System.out.println(((Animal)o).imie);
+        for (Animal a : lista2){
+            System.out.println(a.imie);
         }
         System.out.println("wywoływanie metod na ArrayList<> :\n");
         System.out.println(".size : " + lista2.size());
@@ -69,8 +69,8 @@ public class Main {
         System.out.println(".remove kot3 : " + lista2.remove(kot3));
         System.out.println("remove(0) : " + lista2.remove(0));
         System.out.println("aktualny stan listy:");
-        for (Object o : lista2){
-            System.out.println(((Animal)o).imie);
+        for (Animal a : lista2){
+            System.out.println(a.imie);
         }
         lista2.clear();
         System.out.println(".clear");
