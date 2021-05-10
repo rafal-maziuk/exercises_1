@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fe4c8b5-011b-487a-93c3-faa9dd39eecf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/Z_kolekcje_fun/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Z_kolekcje_fun/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -16,17 +16,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Z_kolekcje_fun/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="77" column="5" lean-forward="true" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -42,7 +32,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/V_metody/zad_progr/zad_3.java" />
         <option value="$PROJECT_DIR$/src/main/java/V_metody/zad_progr/zad_4.java" />
         <option value="$PROJECT_DIR$/src/main/java/V_metody/zad_progr/zad_5.java" />
         <option value="$PROJECT_DIR$/src/main/java/V_metody/zad_progr/zad_6.java" />
@@ -93,6 +82,7 @@
         <option value="$PROJECT_DIR$/src/main/java/Z_kolekcje_fun/Animal.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/Z_kolekcje_fun/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Z_kolekcje_fun/fun_1/Main.java" />
       </list>
     </option>
   </component>
@@ -115,7 +105,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="525" />
+    <option name="x" value="530" />
     <option name="width" value="850" />
     <option name="height" value="618" />
   </component>
@@ -153,6 +143,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exc_1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Z_kolekcje_fun" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="exercises" type="b2602c69:ProjectViewProjectNode" />
@@ -228,11 +226,11 @@
       </method>
     </configuration>
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Z_kolekcje_fun.Main" />
+      <option name="MAIN_CLASS_NAME" value="Z_kolekcje_fun.fun_2.Main" />
       <module name="exc_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Z_kolekcje_fun.*" />
+          <option name="PATTERN" value="Z_kolekcje_fun.fun_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -246,6 +244,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="VI_klasy.zad_prog.zad_12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Z_kolekcje_fun.fun_1.Main" />
+      <module name="exc_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Z_kolekcje_fun.fun_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -271,10 +282,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.SavingsAccountTest" />
       </list>
     </recent_temporary>
   </component>
@@ -334,9 +345,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="525" y="0" width="850" height="618" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.3227848" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3227848" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -923,16 +933,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Z_kolekcje_fun/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
-          <folding>
-            <element signature="e#152#153#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -940,10 +940,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Z_kolekcje_fun/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Z_kolekcje_fun/fun_1/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="77" column="5" lean-forward="true" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#158#159#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Z_kolekcje_fun/fun_1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
