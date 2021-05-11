@@ -46,5 +46,30 @@ public class Main {
                 System.out.println(s);
             }
         }
+
+        ArrayList<Animal> koty = new ArrayList<>();
+        Animal kot1 = new Animal("czarny");
+        Animal kot2 = new Animal("rudy");
+        Animal kot3 = new Animal("bury");
+        Animal kot4 = new Animal("bialy");
+        Animal kot5 = new Animal("bialy");
+        kot4.wiek = 7;
+
+        koty.add(kot1);
+        koty.add(kot2);
+        koty.add(kot3);
+        koty.add(kot4);
+        koty.add(kot5);
+
+        System.out.println();
+        for (Animal a : koty){
+            System.out.println(a.name + " " + a.wiek);
+        }
+
+        System.out.println("\n---- lista po posortowaniu ---");
+        Collections.sort(koty);     // must be mplemented interface !
+        for (Animal a : koty){
+            System.out.println(a.name + " " + a.wiek);
+        }
     }
 }

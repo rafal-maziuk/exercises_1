@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fe4c8b5-011b-487a-93c3-faa9dd39eecf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/Z_kolekcje_fun/fun_2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Z_kolekcje_fun/fun_2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Z_kolekcje_fun/fun_3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Z_kolekcje_fun/fun_3/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -20,10 +20,23 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Z_kolekcje_fun/fun_3/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+            <state relative-caret-position="255">
+              <caret line="68" column="30" selection-start-line="68" selection-start-column="30" selection-end-line="68" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Z_kolekcje_fun/fun_3/Animal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="114" selection-start-line="16" selection-start-column="114" selection-end-line="16" selection-end-column="114" />
+              <folding>
+                <element signature="e#90#91#0" expanded="true" />
+                <element signature="e#122#123#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -45,8 +58,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/V_metody/zad_progr/zad_6.java" />
-        <option value="$PROJECT_DIR$/src/main/java/V_metody/zad_progr/zad_7.java" />
         <option value="$PROJECT_DIR$/src/main/java/V_metody/zad_progr/zad_8.java" />
         <option value="$PROJECT_DIR$/src/main/java/V_metody/zad_progr/zad_9.java" />
         <option value="$PROJECT_DIR$/src/main/java/V_metody/zad_progr/zad_10.java" />
@@ -95,7 +106,9 @@
         <option value="$PROJECT_DIR$/src/main/java/Z_kolekcje_fun/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/Z_kolekcje_fun/fun_1/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/Z_kolekcje_fun/fun_2/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Z_kolekcje_fun/fun_3/Anima.java" />
         <option value="$PROJECT_DIR$/src/main/java/Z_kolekcje_fun/fun_3/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Z_kolekcje_fun/fun_3/Animal.java" />
       </list>
     </option>
   </component>
@@ -117,7 +130,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="535" />
     <option name="width" value="836" />
     <option name="height" value="735" />
@@ -366,10 +379,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="535" y="0" width="836" height="735" extended-state="0" />
-    <editor active="true" />
+    <frame x="535" y="0" width="836" height="735" extended-state="1" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.32860824" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32860824" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -378,12 +390,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28737542" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3039867" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32783505" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.40618557" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3289689" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32242227" />
@@ -438,13 +450,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/V_metody/zad_progr/zad_9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="62" lean-forward="true" selection-start-line="17" selection-start-column="62" selection-end-line="17" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/V_metody/zad_progr/zad_10.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
@@ -974,10 +979,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Z_kolekcje_fun/fun_3/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="114" selection-start-line="16" selection-start-column="114" selection-end-line="16" selection-end-column="114" />
+          <folding>
+            <element signature="e#90#91#0" expanded="true" />
+            <element signature="e#122#123#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Z_kolekcje_fun/fun_3/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+        <state relative-caret-position="255">
+          <caret line="68" column="30" selection-start-line="68" selection-start-column="30" selection-end-line="68" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
