@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2fe4c8b5-011b-487a-93c3-faa9dd39eecf" name="Default Changelist" comment="" />
+    <list default="true" id="2fe4c8b5-011b-487a-93c3-faa9dd39eecf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/Z_kolekcje_fun/fun_4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Z_kolekcje_fun/fun_4/Main.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Z_kolekcje_fun/fun_4/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+            <state relative-caret-position="286">
+              <caret line="37" column="40" selection-start-line="37" selection-start-column="40" selection-end-line="37" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -968,8 +970,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Z_kolekcje_fun/fun_4/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+        <state relative-caret-position="286">
+          <caret line="37" column="40" selection-start-line="37" selection-start-column="40" selection-end-line="37" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
