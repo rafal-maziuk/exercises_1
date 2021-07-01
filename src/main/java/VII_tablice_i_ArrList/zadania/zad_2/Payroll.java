@@ -9,17 +9,23 @@ public class Payroll {
 //    double[] payRate = {20, 22, 18, 17, 14, 24, 21};
     double[] wages = new double[7];
 
+    //constructor no args
     public Payroll() {
     }
 
     public double wynagrodzenie(int id){
 
-
-
-        return 0;
+        int userId = id;
+        double payment = 0;
+        for (int i = 0; i < employeeId.length; i++) {
+            if (employeeId[i] == userId){
+                payment = wages[i];
+                return payment;
+            }
+        }
+        System.out.println("pracownik nie istnieje!");
+        return -1;
     }
-
-
 
     public int[] getEmployeeId() {
         return employeeId;

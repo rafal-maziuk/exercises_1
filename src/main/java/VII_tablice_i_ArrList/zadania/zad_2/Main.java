@@ -10,7 +10,7 @@ public class Main {
 
 
         for (int i = 0; i < payroll.employeeId.length; i++) {
-            double brutto = 0;
+            double brutto=0;
             System.out.println("podaj liczbe przepracowanych godzin pracownika nr " + (payroll.employeeId[i]) + " :");
             payroll.hours[i] = scanner.nextInt();
             System.out.println("podaj stawkę godzinową pracownika nr " + (payroll.employeeId[i]) + " :");
@@ -20,5 +20,9 @@ public class Main {
             payroll.wages[i] = brutto;
         }
 
+        System.out.println("wypłata pracownika nr 4520125 wynosi: ");   //good nr
+        System.out.println(payroll.wynagrodzenie(4520125));
+        System.out.println("wypłata pracownika nr 45201 wynosi: ");   //error
+        System.out.println(payroll.wynagrodzenie(45201));
     }
 }

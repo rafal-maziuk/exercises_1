@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fe4c8b5-011b-487a-93c3-faa9dd39eecf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/VII_tablice_i_ArrList/zadania/zad_2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/VII_tablice_i_ArrList/zadania/zad_2/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/VII_tablice_i_ArrList/zadania/zad_2/Payroll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/VII_tablice_i_ArrList/zadania/zad_2/Payroll.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,30 +18,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/VII_tablice_i_ArrList/zadania/zad_2/Payroll.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+            <state relative-caret-position="357">
+              <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
               <folding>
-                <element signature="e#550#551#0" expanded="true" />
-                <element signature="e#651#652#0" expanded="true" />
-                <element signature="e#710#711#0" expanded="true" />
-                <element signature="e#791#792#0" expanded="true" />
-                <element signature="e#857#858#0" expanded="true" />
-                <element signature="e#949#950#0" expanded="true" />
-                <element signature="e#1011#1012#0" expanded="true" />
-                <element signature="e#1095#1096#0" expanded="true" />
+                <element signature="e#802#803#0" expanded="true" />
+                <element signature="e#835#836#0" expanded="true" />
+                <element signature="e#892#893#0" expanded="true" />
+                <element signature="e#936#937#0" expanded="true" />
+                <element signature="e#967#968#0" expanded="true" />
+                <element signature="e#995#996#0" expanded="true" />
+                <element signature="e#1042#1043#0" expanded="true" />
+                <element signature="e#1076#1077#0" expanded="true" />
+                <element signature="e#1112#1113#0" expanded="true" />
+                <element signature="e#1142#1143#0" expanded="true" />
+                <element signature="e#1196#1197#0" expanded="true" />
+                <element signature="e#1234#1235#0" expanded="true" />
+                <element signature="e#1268#1269#0" expanded="true" />
+                <element signature="e#1296#1297#0" expanded="true" />
+                <element signature="e#1346#1347#0" expanded="true" />
+                <element signature="e#1380#1381#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/VII_tablice_i_ArrList/zadania/zad_2/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+            <state relative-caret-position="376">
+              <caret line="23" column="59" lean-forward="true" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -385,7 +393,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.35679215" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.57119477" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -970,27 +978,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/VII_tablice_i_ArrList/zadania/zad_2/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/VII_tablice_i_ArrList/zadania/zad_2/Payroll.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        <state relative-caret-position="357">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+          <folding>
+            <element signature="e#802#803#0" expanded="true" />
+            <element signature="e#835#836#0" expanded="true" />
+            <element signature="e#892#893#0" expanded="true" />
+            <element signature="e#936#937#0" expanded="true" />
+            <element signature="e#967#968#0" expanded="true" />
+            <element signature="e#995#996#0" expanded="true" />
+            <element signature="e#1042#1043#0" expanded="true" />
+            <element signature="e#1076#1077#0" expanded="true" />
+            <element signature="e#1112#1113#0" expanded="true" />
+            <element signature="e#1142#1143#0" expanded="true" />
+            <element signature="e#1196#1197#0" expanded="true" />
+            <element signature="e#1234#1235#0" expanded="true" />
+            <element signature="e#1268#1269#0" expanded="true" />
+            <element signature="e#1296#1297#0" expanded="true" />
+            <element signature="e#1346#1347#0" expanded="true" />
+            <element signature="e#1380#1381#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/VII_tablice_i_ArrList/zadania/zad_2/Payroll.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/VII_tablice_i_ArrList/zadania/zad_2/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
-          <folding>
-            <element signature="e#550#551#0" expanded="true" />
-            <element signature="e#651#652#0" expanded="true" />
-            <element signature="e#710#711#0" expanded="true" />
-            <element signature="e#791#792#0" expanded="true" />
-            <element signature="e#857#858#0" expanded="true" />
-            <element signature="e#949#950#0" expanded="true" />
-            <element signature="e#1011#1012#0" expanded="true" />
-            <element signature="e#1095#1096#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="376">
+          <caret line="23" column="59" lean-forward="true" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
         </state>
       </provider>
     </entry>
