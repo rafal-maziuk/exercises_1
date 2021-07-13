@@ -10,32 +10,43 @@ public class DriverExam {
     public DriverExam() {
     }
 
-    public static boolean passed(String[] correct, String[] ans){
+    public static boolean passed(int correct){
 
-        boolean decision = true;
-        for (int i = 0; i < correct.length ; i++) {
-            if (correct[i].equalsIgnoreCase(ans[i])){
-                decision = true;
-            } else
-                decision = false;
+        boolean decision = false;
+        if (correct >= 15){
+            decision = true;
         }
-        System.out.println(decision);
         return decision;
     }
 
-    public static int totalCorrect(String[] correct, String[] ans){
+    public static int totalCorrect(String[] correctAns, String[] examinatedAns){
         int numCorrect = 0;
-        for (int i = 0; i < correct.length ; i++) {
-            if (correct[i].equalsIgnoreCase(ans[i])){
+        for (int i = 0; i < correctAns.length ; i++) {
+            if (correctAns[i].equalsIgnoreCase(examinatedAns[i])){
                 numCorrect += 1;
             }
         }
         return numCorrect;
     }
 
-    public static int totalIncorrect(){
-        return 0;
+    public static int totalIncorrect(String[] correct, String[] answears){
+        int wrong = 0;
+        for (int i = 0; i < correct.length ; i++) {
+            if (!correct[i].equalsIgnoreCase(answears[i])){
+                wrong += 1;
+            }
+        }
+        return wrong;
     }
 
-
+//    public static int questionsMissed(String[] answear){
+//        int missed = 0;
+//
+//        for (int i = 0; i < answear.length ; i++) {
+//            if (answear[i].isEmpty()){
+//                missed += 1;
+//            }
+//        }
+//        return missed;
+//    }
 }
