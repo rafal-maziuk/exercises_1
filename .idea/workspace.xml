@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2fe4c8b5-011b-487a-93c3-faa9dd39eecf" name="Default Changelist" comment="" />
+    <list default="true" id="2fe4c8b5-011b-487a-93c3-faa9dd39eecf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,12 +16,25 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/VII_tablice_i_ArrList/zadania/zad_5/Main.java">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/VII_tablice_i_ArrList/zadania/zad_6/DriverExam.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+            <state relative-caret-position="201">
+              <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+              <folding>
+                <element signature="e#366#367#0" expanded="true" />
+                <element signature="e#390#391#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/VII_tablice_i_ArrList/zadania/zad_6/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="80" lean-forward="true" selection-start-line="7" selection-start-column="80" selection-end-line="7" selection-end-column="80" />
             </state>
           </provider>
         </entry>
@@ -40,8 +55,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/VI_klasy/zad_prog/zad5/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/VI_klasy/zad_prog/zad6/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/VI_klasy/zad_prog/zad6/TestScores.java" />
         <option value="$PROJECT_DIR$/src/main/java/VI_klasy/zad_prog/zad7/Circle.java" />
         <option value="$PROJECT_DIR$/src/main/java/VI_klasy/zad_prog/zad7/Main.java" />
@@ -91,6 +104,8 @@
         <option value="$PROJECT_DIR$/src/main/java/VII_tablice_i_ArrList/zadania/zad_3/Account.java" />
         <option value="$PROJECT_DIR$/src/main/java/VII_tablice_i_ArrList/zadania/zad_3/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/VII_tablice_i_ArrList/zadania/zad_5/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/VII_tablice_i_ArrList/zadania/zad_6/DriverExam.java" />
+        <option value="$PROJECT_DIR$/src/main/java/VII_tablice_i_ArrList/zadania/zad_6/Main.java" />
       </list>
     </option>
   </component>
@@ -178,7 +193,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="VII_tablice_i_ArrList" type="462c0819:PsiDirectoryNode" />
               <item name="zadania" type="462c0819:PsiDirectoryNode" />
-              <item name="zad_5" type="462c0819:PsiDirectoryNode" />
+              <item name="zad_6" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -220,7 +235,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="VII_tablice_i_ArrList.zadania.zad_3.Main" />
       <module name="exc_1" />
@@ -240,6 +255,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="VII_tablice_i_ArrList.zadania.zad_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VII_tablice_i_ArrList.zadania.zad_6.Main" />
+      <module name="exc_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="VII_tablice_i_ArrList.zadania.zad_6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -273,26 +301,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zad_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VII_tablice_i_ArrList.warsztat.zad_11" />
-      <module name="exc_1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="VII_tablice_i_ArrList.warsztat.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.main" />
-        <item itemvalue="Application.zad_11" />
       </list>
     </recent_temporary>
   </component>
@@ -354,7 +369,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18456884" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21482602" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -363,7 +378,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30441898" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31423897" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -451,34 +466,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/VI_klasy/zad_prog/zad5/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="30" column="43" lean-forward="true" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/VI_klasy/zad_prog/zad6/TestScores.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-          <folding>
-            <element signature="e#281#282#0" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
-            <element signature="e#354#355#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#417#418#0" expanded="true" />
-            <element signature="e#445#446#0" expanded="true" />
-            <element signature="e#490#491#0" expanded="true" />
-            <element signature="e#524#525#0" expanded="true" />
-            <element signature="e#553#554#0" expanded="true" />
-            <element signature="e#581#582#0" expanded="true" />
-            <element signature="e#626#627#0" expanded="true" />
-            <element signature="e#660#661#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/VI_klasy/zad_prog/zad6/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="291">
@@ -920,20 +907,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/VII_tablice_i_ArrList/zadania/zad_3/Account.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/VII_tablice_i_ArrList/zadania/zad_5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/VII_tablice_i_ArrList/zadania/zad_3/Account.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/VII_tablice_i_ArrList/zadania/zad_5.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/VII_tablice_i_ArrList/zadania/zad_3/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -943,8 +918,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/VII_tablice_i_ArrList/zadania/zad_5/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        <state relative-caret-position="136">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/VII_tablice_i_ArrList/zadania/zad_6/DriverExam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+          <folding>
+            <element signature="e#366#367#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/VII_tablice_i_ArrList/zadania/zad_6/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="80" lean-forward="true" selection-start-line="7" selection-start-column="80" selection-end-line="7" selection-end-column="80" />
         </state>
       </provider>
     </entry>
