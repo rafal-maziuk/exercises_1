@@ -12,6 +12,11 @@ public class Main {
         for (int i = 0; i < driverExam.correctAns.length ; i++) {
             System.out.print("podaj odpowiedz na pytanie nr " + (i+1) + " : ");
             odp = scanner.nextLine();
+            if (!odp.equalsIgnoreCase("a") && !odp.equalsIgnoreCase("b")
+                    && !odp.equalsIgnoreCase("c") && !odp.equalsIgnoreCase("d")) {
+                System.out.println("zła odpowiedź! wpisz poprawną!");
+                break;
+            } else
             driverExam.examinatedAns[i] = odp;
         }
 
