@@ -43,7 +43,7 @@ public class Main {
         do {
             Random random = new Random();
             int randomNr = random.nextInt(arrayList.size());
-            System.out.println("masz jakieś pytanie?");
+            System.out.println("proszę zadaj pytanie, w którym oczekujesz odpowiedzi tak/nie : ");
             inputAns = scanner.nextLine();
 
             System.out.println("hmm, niech pomyślę...");
