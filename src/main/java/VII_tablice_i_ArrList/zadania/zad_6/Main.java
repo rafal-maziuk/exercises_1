@@ -15,8 +15,10 @@ public class Main {
             if (!odp.equalsIgnoreCase("a") && !odp.equalsIgnoreCase("b")
                     && !odp.equalsIgnoreCase("c") && !odp.equalsIgnoreCase("d")) {
                 System.out.println("zła odpowiedź! wpisz poprawną!");
-                break;
-            } else
+            } if (odp.isBlank()){
+                driverExam.questionsMissed[i] = i+1;
+            }
+            else
             driverExam.examinatedAns[i] = odp;
         }
 
@@ -24,6 +26,7 @@ public class Main {
         System.out.println("liczba poprawnych odpowiedzi wynosi: " + correct);
         int incorrect = driverExam.totalIncorrect(driverExam.correctAns, driverExam.examinatedAns);
         System.out.println("liczba NIEpoprawnych odpowiedzi wynosi: " + incorrect);
+
 
         System.out.println("czy egzmain zostal zdany? " + driverExam.passed(correct));
 

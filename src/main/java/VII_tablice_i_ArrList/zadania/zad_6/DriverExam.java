@@ -4,9 +4,10 @@ public class DriverExam {
 
     public String[] correctAns = {"B", "D", "A", "A", "C", "A", "B", "A", "C", "D", "B", "C", "D", "A", "D",
             "C", "C", "B", "D", "A"};
-    public String[] examinatedAns = new String[20];
-    public int[] questionsMissed;
+    public String[] examinatedAns = new String[correctAns.length];
+    public int[] questionsMissed = new int[correctAns.length];
 
+    // pusty konstruktor
     public DriverExam() {
     }
 
