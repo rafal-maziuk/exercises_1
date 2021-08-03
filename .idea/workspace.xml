@@ -19,10 +19,22 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/VII_tablice_i_ArrList/zadania/zad_12/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/VII_tablice_i_ArrList/zadania/zad_7/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+            <state relative-caret-position="586">
+              <caret line="55" column="9" lean-forward="true" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -46,7 +58,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/VI_klasy/zad_prog/zad7/Circle.java" />
         <option value="$PROJECT_DIR$/src/main/java/VI_klasy/zad_prog/zad7/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/VI_klasy/zad_prog/zad8/Temperature.java" />
         <option value="$PROJECT_DIR$/src/main/java/VI_klasy/zad_prog/zad8/Main.java" />
@@ -97,6 +108,7 @@
         <option value="$PROJECT_DIR$/src/main/java/VII_tablice_i_ArrList/zadania/zad_6/DriverExam.java" />
         <option value="$PROJECT_DIR$/src/main/java/VII_tablice_i_ArrList/zadania/zad_6/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/VII_tablice_i_ArrList/zadania/zad_7/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/VII_tablice_i_ArrList/zadania/zad_12/Main.java" />
       </list>
     </option>
   </component>
@@ -181,6 +193,16 @@
               <item name="zadania" type="462c0819:PsiDirectoryNode" />
               <item name="zad_7" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exc_1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="VII_tablice_i_ArrList" type="462c0819:PsiDirectoryNode" />
+              <item name="zadania" type="462c0819:PsiDirectoryNode" />
+              <item name="zad_12" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -215,6 +237,9 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
       <recent name="groovy.util.GroovyTestCase" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\_IT\cwiczenia\exc_1" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -365,7 +390,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22844176" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22844176" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -457,20 +482,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/VI_klasy/zad_prog/zad7/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/VI_klasy/zad_prog/zad8/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/VI_klasy/zad_prog/zad10/Oczko.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/VI_klasy/zad_prog/zad9/MonthDays.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -917,10 +928,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/1994_Weekly_Gas_Averages.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/VII_tablice_i_ArrList/zadania/zad_7/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        <state relative-caret-position="586">
+          <caret line="55" column="9" lean-forward="true" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/VII_tablice_i_ArrList/zadania/zad_12/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
