@@ -13,6 +13,6 @@ public class Main {
         File file = new File(fileName);
         Scanner scanner = new Scanner(file);
 
-
+        double minValue, maxValue;
     }
 }
