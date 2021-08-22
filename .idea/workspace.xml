@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2fe4c8b5-011b-487a-93c3-faa9dd39eecf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/VII_tablice_i_ArrList/zadania/zad_12/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/VII_tablice_i_ArrList/zadania/zad_12/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1994_Weekly_Gas_Averages.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/VII_tablice_i_ArrList/zadania/zad_12/Main.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -22,13 +22,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/VII_tablice_i_ArrList/zadania/zad_12/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/VII_tablice_i_ArrList/zadania/zad_14/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="85">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -49,7 +46,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/VI_klasy/zad_prog/zad7/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/VI_klasy/zad_prog/zad8/Temperature.java" />
         <option value="$PROJECT_DIR$/src/main/java/VI_klasy/zad_prog/zad8/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/VI_klasy/zad_prog/zad9/Main.java" />
@@ -100,6 +96,7 @@
         <option value="$PROJECT_DIR$/src/main/java/VII_tablice_i_ArrList/zadania/zad_6/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/VII_tablice_i_ArrList/zadania/zad_7/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/VII_tablice_i_ArrList/zadania/zad_12/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/VII_tablice_i_ArrList/zadania/zad_14/Main.java" />
       </list>
     </option>
   </component>
@@ -114,7 +111,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="836" />
@@ -172,26 +169,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="VII_tablice_i_ArrList" type="462c0819:PsiDirectoryNode" />
               <item name="zadania" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exc_1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="VII_tablice_i_ArrList" type="462c0819:PsiDirectoryNode" />
-              <item name="zadania" type="462c0819:PsiDirectoryNode" />
-              <item name="zad_7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exc_1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="VII_tablice_i_ArrList" type="462c0819:PsiDirectoryNode" />
-              <item name="zadania" type="462c0819:PsiDirectoryNode" />
-              <item name="zad_12" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -378,8 +355,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17170954" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -452,6 +428,14 @@
               <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
                 <collection />
               </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
             </State>
           </value>
         </entry>
@@ -473,7 +457,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/VI_klasy/zad_prog/zad10/Oczko.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/VI_klasy/zad_prog/zad9/MonthDays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
@@ -935,10 +918,17 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/VII_tablice_i_ArrList/zadania/zad_12/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+          <caret line="15" column="34" lean-forward="true" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/VII_tablice_i_ArrList/zadania/zad_14/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
