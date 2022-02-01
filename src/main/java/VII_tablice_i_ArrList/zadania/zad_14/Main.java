@@ -9,8 +9,5 @@ public class Main {
         ArrayList<String> girlNameList = new ArrayList<>();
         ArrayList<String> boyNameList = new ArrayList<>();
 
-
-        System.out.println("bla bla bla, just checking");
-
     }
 }
