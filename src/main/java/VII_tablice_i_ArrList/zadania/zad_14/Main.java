@@ -10,5 +10,7 @@ public class Main {
         ArrayList<String> boyNameList = new ArrayList<>();
 
 
+        System.out.println("bla bla bla, just checking");
+
     }
 }
