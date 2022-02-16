@@ -11,7 +11,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) throws IOException {
 
-        File fileGirlName = new File("C:\\_IT\\cwiczenia\\exc_1\\src\\main\\java\\VII_tablice_i_ArrList\\zadania\\zad_14\\GirlNames.txt"),
+        File fileGirlName = new File("GirlNames.txt"),
                 fileBoyName = new File("BoyNames.txt");
         Scanner input1 = new Scanner(fileGirlName);
         Scanner input2 = new Scanner(fileBoyName);
