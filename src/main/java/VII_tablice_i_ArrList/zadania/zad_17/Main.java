@@ -4,12 +4,20 @@ public class Main {
 
     public static void main(String[] args) {
 
-        int[][] table;
+        int[][] table = { {1,2,3} , {4,5,6} , {7,8,9}};
+
+        System.out.println("suma w tabeli wynosi: " + getTotal(table));
 
     }
 
     public static int getTotal(int[][] tab){
-        return 0;
+        int sum = 0;
+        for (int i = 0; i < tab.length; i++) {
+            for (int j = 0; j < tab[i].length; j++) {
+                sum += tab[i][j];
+            }
+        }
+        return sum;
     }
 
     public static int getAverage(int[][] tab){
