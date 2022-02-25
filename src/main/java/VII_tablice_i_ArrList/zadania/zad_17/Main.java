@@ -12,6 +12,8 @@ public class Main {
         System.out.println("średnia: " + getAverage(table));
         System.out.println("wartość wiersza: " + getRowTotal(table, 0));
         System.out.println("wartość kolumny: " + getColumnTotal(table, 1));
+        System.out.println("najwyższa wartość w kolumnie to: " + getHighestInRow(table, 2));
+        System.out.println("najniższa wartość w kolumnie to: " + getLowestInRow(table, 2));
 
     }
 
@@ -72,10 +74,34 @@ public class Main {
     }
 
     public static int getHighestInRow(int[][] tab, int nr){
-        return 0;
+        int highest = 0;
+        try {
+            for (int i = 0; i < tab[nr].length; i++) {
+                int actualNr = tab[nr][i];
+                if (actualNr > highest) {
+                    highest = actualNr;
+                }
+            }
+        } catch (ArrayIndexOutOfBoundsException e) {
+            System.out.println("index poza rozmiarem tablicy !");
+            System.exit(-1);
+        }
+        return highest;
     }
 
     public static int getLowestInRow(int[][] tab, int nr){
-        return 0;
+        int lowest = Integer.MAX_VALUE;
+        try {
+            for (int i = 0; i < tab[nr].length; i++) {
+                int actualNr = tab[nr][i];
+                if (actualNr < lowest) {
+                    lowest = actualNr;
+                }
+            }
+        } catch (ArrayIndexOutOfBoundsException e) {
+            System.out.println("index poza rozmiarem tablicy !");
+            System.exit(-1);
+        }
+        return lowest;
     }
 }
