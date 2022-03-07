@@ -15,15 +15,16 @@ public class Question {
         this.correctAnswer = correctAnswer;
     }
 
-    public String getQuestion() {
-        return question;
-    }
-
     public int getCorrectAnswer() {
         return correctAnswer;
     }
 
-    public void setCorrectAnswer(int correctAnswer) {
-        this.correctAnswer = correctAnswer;
+    @Override
+    public String toString() {
+        return "question='" + question + '\'' +
+                ", answer_1='" + answer_1 + '\'' +
+                ", answer_2='" + answer_2 + '\'' +
+                ", answer_3='" + answer_3 + '\'' +
+                ", answer_4='" + answer_4 + '\'';
     }
 }
