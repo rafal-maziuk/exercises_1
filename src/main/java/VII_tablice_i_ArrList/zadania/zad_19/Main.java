@@ -1,6 +1,5 @@
 package VII_tablice_i_ArrList.zadania.zad_19;
 
-import java.sql.SQLOutput;
 import java.util.ArrayList;
 import java.util.Scanner;
 
